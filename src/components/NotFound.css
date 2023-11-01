@@ -1,22 +1,39 @@
 .not-found-container {
-    text-align: center;
-    padding: 20px;
-  }
-  
-  .not-found-title {
-    font-size: 28px;
-    font-weight: bold;
-    color: #333;
-  }
-  
-  p{
-    font-size: 16px;
-    color: #555;
-  }
-  
-  Link {
-    text-decoration: none;
-    color: #0077cc;
-  }
-  
- 
+  text-align: center;
+  padding: 20px;
+}
+
+.not-found-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
+  margin: 20px 10px;
+}
+
+Link {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+div {
+  background-color: #ffffff;
+  display: grid;
+  justify-content: column;
+}
+
+a {
+  margin: 30px;
+}
+
+.backToMain {
+  margin: 100px;
+}
+
+.error {
+  color: #3c5665;
+}

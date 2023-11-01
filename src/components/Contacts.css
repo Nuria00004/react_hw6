@@ -1,17 +1,32 @@
- div {
-    text-align: center;
-    background-color: #f0f0f0;
-  }
-  
-  h1 {
-    font-size: 28px;
-    font-weight: bold;
-    color: #333;
-  }
-  
- li {
-    font-size: 18px;
-    color: #0077cc;
-    text-decoration: none;
-  }
-  
+div {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1e2025;
+}
+
+li {
+  font-size: 18px;
+  color: #3c5665;
+  text-decoration: none;
+  justify-content: space-between;
+}
+.data {
+  color: #3c5665;
+  /* display: flex;
+    align-items: center;
+    padding: 1px ; */
+}
+.data2 {
+  color: #5a7480;
+  /* display: flex;
+    align-items: center;
+    margin: 5px; */
+}
+.contacts {
+  color: #3c5665;
+}

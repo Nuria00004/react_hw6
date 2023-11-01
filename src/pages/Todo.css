@@ -1,0 +1,37 @@
+
+
+.h1data {
+    color: #3c5665;
+
+}
+
+.addtask {
+    font-size: 16px;
+    padding: 9px;
+    background-color: #5A7485;
+    color: #92A4B1;
+    border: 1px solid #555;
+    border-radius: 1px;
+}
+
+.input {
+    padding: 10px 5px;
+    margin-top: 10px;
+    width: 500px;
+    border: 1px solid #92A4B1;
+    border-radius: 1px;
+}
+.Task {
+    display:grid;
+    justify-content: center;
+}
+
+.li {
+    color: #313941;
+    display: flex;
+    justify-content: center;
+}
+
+.addtask:hover {
+    color: #3c5665;
+}

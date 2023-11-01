@@ -4,7 +4,7 @@ import "./Home.css";
 function Home() {
   return (
     <div className="home-container">
-      <h1>Это Нурия</h1>
+      <h1 className="h1name">Это Нурия</h1>
       <p>
         Я - учусь, чтобы стать веб-разработчиком с опытом в создании креативных
         и удивительных веб-приложений.

@@ -22,7 +22,7 @@ function Portfolio() {
 
   return (
     <div>
-      <h1>Портфолио</h1>
+      <h1 className='h1portfolio'>Портфолио</h1>
       <div className="portfolio-list">
         {projects.map((project, index) => (
           <div key={index} className="portfolio-item">

@@ -1,5 +1,5 @@
 nav {
-    background-color: #333;
+    background-color: #29343d;
     padding: 10px;
     text-align: center;
   }
@@ -7,6 +7,7 @@ nav {
   ul {
     list-style-type: none;
     padding: 0;
+    justify-content: space-between;
   }
   
   li {
@@ -16,13 +17,13 @@ nav {
   
   a {
     text-decoration: none;
-    color: #4f6591;
+    color: #5A7480;
     font-size: 18px;
     font-weight: bold;
     transition: color 0.3s;
   }
   
   a:hover {
-    color: #0077cc;
+    color: #92A4B1;
   }
   

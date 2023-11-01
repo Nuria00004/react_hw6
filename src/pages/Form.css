@@ -1,0 +1,43 @@
+.registration {
+    color:#3c5665;
+}
+
+.button {
+    background-color: #5A7485;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #5A7485;
+    color: #92A4B1;
+    border: 1px solid #3c5665;
+    border-radius: 1px;
+    margin-top: 10px;
+}
+
+.button:hover {
+    color: #3c5665;
+}
+
+.input-ii {
+    padding: 5px;
+    margin-top: 10px;
+    width: 500px;
+    border: 1px solid #000000;
+    border-radius: 1px;
+    background-color: #92A4B1;
+    color:#1e2025;
+    font-size: 15px;
+    
+}
+
+input {
+    padding: 10px;
+}
+
+.h3pre {
+    color: #3c5665;
+    font-size: 20px;
+}
+
+.done {
+    color: #5A7485;
+}
