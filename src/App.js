@@ -5,8 +5,8 @@ import Home from "./components/Home";
 import Contacts from "./components/Contacts";
 import Portfolio from "./components/Portfolio";
 import NotFound from "./components/NotFound";
-import Form from './pages/Form';
-import Todo from "./pages/Todo";
+import Form from './components/Form';
+import Todo from "./components/Todo";
 import Layout from "./components/Layout";
 
 export const App = () => {
